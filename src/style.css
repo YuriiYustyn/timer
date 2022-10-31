@@ -1,0 +1,21 @@
+.tape{
+background-color: green;
+height: 10px;
+width: 100%;
+border: 2px solid rgb(145, 225, 16);
+}
+
+body{
+   background-color: rgb(0, 0, 0);
+}
+h2{
+   color: rgb(91, 226, 7)
+}
+button{
+   color: rgb(177, 232, 38);
+   background-color: rgba(54, 50, 50, 0.862);
+   border: 2px solid yellow
+}
+div{
+   padding-top: 20px;
+}
